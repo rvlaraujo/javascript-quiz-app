@@ -88,8 +88,9 @@ h3 {
   text-align: center;
   border: 0.1rem solid #56a5eb;
   margin-bottom: 1rem;
-  text-decoration: #56a5eb;
-  background-color: #ccc;
+  text-decoration: none;
+  color: #56a5eb;
+  background-color: white;
 }
 
 .btn:hover {
